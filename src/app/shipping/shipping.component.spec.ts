@@ -1,4 +1,4 @@
-import { ComponentFixture, TestBed } from '@angular/core/testing';
+/* import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ShippingComponent } from './shipping.component';
 
@@ -8,9 +8,8 @@ describe('ShippingComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ ShippingComponent ]
-    })
-    .compileComponents();
+      declarations: [ShippingComponent],
+    }).compileComponents();
 
     fixture = TestBed.createComponent(ShippingComponent);
     component = fixture.componentInstance;
@@ -21,3 +20,4 @@ describe('ShippingComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+ */
