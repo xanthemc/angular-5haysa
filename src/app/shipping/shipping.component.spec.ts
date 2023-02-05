@@ -1,4 +1,4 @@
-/* import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { ShippingComponent } from './shipping.component';
 
@@ -20,4 +20,3 @@ describe('ShippingComponent', () => {
     expect(component).toBeTruthy();
   });
 });
- */
