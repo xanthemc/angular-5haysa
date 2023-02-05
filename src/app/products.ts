@@ -26,7 +26,7 @@ export const products = [
   },
 ];
 
-export const new_list = [
+/* export const new_list = [
   {
     id: 1,
     name: 'tedt XL',
@@ -46,7 +46,7 @@ export const new_list = [
     description: '',
   },
 ];
-
+ */
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
